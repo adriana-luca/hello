@@ -128,7 +128,7 @@ a {
   margin: 0;
   text-align: center;
   text-transform: uppercase;
-  font-family: Fira Sans; }
+  font-family: 'Fira Sans', sans-serif; }
 
   @media (max-width: 768px) {
     .items-holder h1 {
