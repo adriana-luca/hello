@@ -15,6 +15,7 @@
 @import url("https://fonts.googleapis.com/css?family=ABeeZee");
 @import url("https://fonts.googleapis.com/css?family=Lato");
 @import url('https://fonts.googleapis.com/css?family=Fira+Sans');
+@import url('https://fonts.googleapis.com/css?family=Changa+One|Passion+One|Viga');
 
 *, *:before, *:after {
   box-sizing: border-box; }
@@ -129,7 +130,7 @@ a {
   text-align: center;
   font-weight: bold;
   text-transform: uppercase;
-  font-family: 'Fira Sans', sans-serif; }
+  font-family: 'Viga', sans-serif; }
 
   @media (max-width: 768px) {
     .items-holder h1 {
